@@ -1,5 +1,5 @@
 == RoR Tutorial
 
-This is a tech excersize completed for CSCI-3830 Software Engineering. It is the initial portion of Michael Hartl's Ruby on Rails tutorial.
+This is a tech excercise completed for CSCI-3830 Software Engineering. It is the initial portion of Michael Hartl's Ruby on Rails tutorial.
 
 
